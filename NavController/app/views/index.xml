@@ -1,0 +1,3 @@
+<Alloy>
+	<Require src="nav" id="nav" type="view"/>
+</Alloy>

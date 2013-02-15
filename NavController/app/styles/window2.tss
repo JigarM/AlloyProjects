@@ -1,0 +1,5 @@
+".container": {
+	backgroundColor: "green",
+	layout:"vertical",
+	persist:false
+}
