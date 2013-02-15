@@ -1,0 +1,1 @@
+This is a Navigation Controller example that I am working on specifically to allow for universal platform navigation control.  Currently this example works well on iOS, Android and Mobile Web.  Feel free to enhance as you see fit, or make any comments.
